@@ -1,5 +1,5 @@
 {
-  "name": "parcel-preact",
+  "name": "parcel-preact-starter",
   "version": "1.0.0",
   "description": "parcel preact starter.",
   "main": "src/index.js",
