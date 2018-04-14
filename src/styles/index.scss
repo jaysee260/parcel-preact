@@ -1,0 +1,28 @@
+// Default Background Color
+$df-bg: #673ab8;
+// Default Font Color
+$dflt-fc: #fee;
+// Default Font Family
+$dflt-ff: Monospace;
+$dflt-fs: 25px;
+$center: 0 auto;
+
+body {
+  background-color: $df-bg;
+  color: $dflt-fc;
+  font-family: $dflt-ff;
+  font-size: $dflt-fs;
+  letter-spacing: 1px;
+}
+
+#main {
+  width: 500px;
+  margin: $center;
+  text-align: center;
+  a {
+    color: $dflt-fc;
+  }
+  #fyi {
+    margin: 0;
+  }
+}
